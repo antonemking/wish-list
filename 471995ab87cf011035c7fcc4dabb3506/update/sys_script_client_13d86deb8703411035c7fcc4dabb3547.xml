@@ -15,6 +15,7 @@
    // commment
 	//comment
 	// comment
+	//comment
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -22,15 +23,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>13d86deb8703411035c7fcc4dabb3547</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Dummy Script</sys_name>
         <sys_overrides/>
         <sys_package display_value="A Wish List" source="x_snc_a_wish_list">471995ab87cf011035c7fcc4dabb3506</sys_package>
         <sys_policy/>
         <sys_scope display_value="A Wish List">471995ab87cf011035c7fcc4dabb3506</sys_scope>
         <sys_update_name>sys_script_client_13d86deb8703411035c7fcc4dabb3547</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-09 15:50:11</sys_updated_on>
+        <sys_updated_by>abel.tuter</sys_updated_by>
+        <sys_updated_on>2022-05-10 23:40:09</sys_updated_on>
         <table>x_snc_a_wish_list_wish_item</table>
         <type>onLoad</type>
         <ui_type>10</ui_type>
